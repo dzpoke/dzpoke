@@ -12,7 +12,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dzpoke&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### Perfil LinkDin
 <div align="center">  
   <a href="https://www.linkedin.com/in/dzpoke/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
